@@ -156,7 +156,7 @@ export const ACHIEVEMENTS = [
     id: 3,
     title: "Spring Framework 6 and SpringBoot 3",
     description: "A deep dive into Spring Framework and SpringBoot. The course was presented by Popular Instructor for Java- Naveen Reddy Sir, the founder of Telusko Youtube Channel.",
-    imageUrl: "/certificates/SpringBoot_udemy.jpg",
+    imageUrl: "/certificates/Springboot_udemy.jpg",
     certificateUrl: "https://drive.google.com/file/d/1tnYagtlfAntCiFAFIJxt5r769TQ3Ml7b/view?usp=sharing",
   },
   {
