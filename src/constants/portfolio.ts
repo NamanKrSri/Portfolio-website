@@ -44,7 +44,7 @@ export const PROJECTS = [
   {
     id: 3,
     title: "Block Chain",
-    description: "Analytics dashboard for social media metrics with data visualization, built with React, D3.js, and integrated with multiple social media APIs.",
+    description: "Built a blockchain network using open source libraries, integrated features like wallet, transaction,transfer etc purely using java.",
     image: "/projects-images/blockchain.png",
     codeUrl: "https://github.com/NamanKrSri/Blockchain",
     demoUrl: "https://drive.google.com/file/d/1HNFygbill8D2uTF9v86jHLP5TuGW-WSA/view?usp=sharing",
@@ -100,7 +100,7 @@ export const EXPERIENCE = [
     responsibilities: [
       "Built and tailored the entire backend architecture for a medical services startup, supporting 10,000+ users with features like appointment booking, pharmacy tracking, and hospital service retrieval",
       "Integrated and enhanced microservices, improving system scalability and reducing response times by 40%, ensuring seamless request execution, optimized SQL queries to handle large-scale medical records, reducing database query execution time by 40%",
-      "Implemented caching and performance tuning techniques, reducing server load by 35% and improving application efficiency",
+      "Implemented caching and performance tuning techniques, reducing server load by 35% and improving application efficiency.",
     ],
   },
   {
