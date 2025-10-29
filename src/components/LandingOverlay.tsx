@@ -83,7 +83,7 @@ const LandingOverlay = ({ isOpen, onClose }: LandingOverlayProps) => {
                 transition={{ delay: 0.3 }}
                 className="text-base md:text-lg font-bold text-center mb-3 gradient-text"
               >
-                I value your time and here is quick question you might have in your mind?
+                I value your time and here are quick questions you might have in your mind?
               </motion.h2>
 
               <motion.div
