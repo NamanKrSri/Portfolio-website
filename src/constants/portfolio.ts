@@ -87,7 +87,7 @@ export const FREELANCE_PROJECTS = [
     image: "/freelance/logo.png",
     // codeUrl: "https://github.com/yourprofile/fitness-app",
     demoUrl: "https://urovisionhospital.in/",
-    tags: ["React", "Firebase", "PWA"],
+    tags: ["HTML", "CSS", "JavaScript"],
   },
 ];
 
