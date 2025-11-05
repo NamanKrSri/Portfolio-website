@@ -86,7 +86,7 @@ export const FREELANCE_PROJECTS = [
     description: "Mobile-responsive hospital website,containing all the information about the facilities provided.",
     image: "/freelance/logo.png",
     // codeUrl: "https://github.com/yourprofile/fitness-app",
-    demoUrl: "https://demo-fitness.example.com",
+    demoUrl: "https://urovisionhospital.in/",
     tags: ["React", "Firebase", "PWA"],
   },
 ];
@@ -98,8 +98,8 @@ export const EXPERIENCE = [
     role: "Software Engineer Intern",
     duration: "Dec 2024 - May 2025",
     responsibilities: [
-      "Built and tailored the entire backend architecture for a medical services startup, supporting 10,000+ users with features like appointment booking, pharmacy tracking, and hospital service retrieval",
-      "Integrated and enhanced microservices, improving system scalability and reducing response times by 40%, ensuring seamless request execution, optimized SQL queries to handle large-scale medical records, reducing database query execution time by 40%",
+      "Built and tailored the entire backend architecture for a medical services startup, supporting 10,000+ users with features like appointment booking, pharmacy tracking, and hospital service retrieval.",
+      "Integrated and enhanced microservices, improving system scalability and reducing response times by 40%, ensuring seamless request execution, optimized SQL queries to handle large-scale medical records, reducing database query execution time by 40%.",
       "Implemented caching and performance tuning techniques, reducing server load by 35% and improving application efficiency.",
     ],
   },
@@ -109,9 +109,9 @@ export const EXPERIENCE = [
     role: "Research and Development Intern",
     duration: "May 2024 - May 2025",
     responsibilities: [
-      "Crafted new features, fixed existing bugs, enhanced software performance, UI enhancement",
-      "Integrated Rest API enabling smooth data extraction from database reducing 25-40% loading time for startups",
-      "Orchestrated the deployment of website data to Google Cloud, which improved overall system reliability; reduced data access errors by 30%, leading to a more seamless user experience and increased customer satisfaction",
+      "Crafted new features, fixed existing bugs, enhanced software performance, UI enhancement.",
+      "Integrated Rest API enabling smooth data extraction from database reducing 25-40% loading time for startups.",
+      "Orchestrated the deployment of website data to Google Cloud, which improved overall system reliability; reduced data access errors by 30%, leading to a more seamless user experience and increased customer satisfaction.",
     ],
   },
 ];
