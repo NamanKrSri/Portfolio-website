@@ -78,7 +78,7 @@ export const FREELANCE_PROJECTS = [
     image: "/freelance/storystitch_img.jpg",
     // codeUrl: "https://github.com/yourprofile/realestate",
     demoUrl: "https://storystitch.in/",
-    tags: ["React", "Spring Boot", "MySQL"],
+    tags: ["HTML", "CSS", "JavaScript"],
   },
   {
     id: 3,
