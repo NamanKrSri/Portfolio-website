@@ -91,5 +91,5 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Naman Srivastava**
-- Email: naman.srivastava@example.com
+- Email: naman.srivastava001.jnp@gmail.com
 - LinkedIn: https://www.linkedin.com/in/naman-srivastava-27708b230/
