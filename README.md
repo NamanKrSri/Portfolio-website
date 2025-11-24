@@ -52,82 +52,11 @@ A modern, responsive portfolio website built with React, TypeScript, Tailwind CS
    npm run preview
    ```
 
-## 🎨 Customization Guide
-
-### Update Personal Information
-
-All personal data is centralized in `src/constants/portfolio.ts`. Update the following:
-
-1. **Personal Info**
-   - Name, email, phone, location
-   - Bio and education
-   - Professional roles
-
-2. **Social Links**
-   - Facebook, Instagram, Threads, Medium
-   - GitHub, LinkedIn, LeetCode
-
-3. **External Links**
-   - Resume Google Drive link
-
-4. **Projects**
-   - Add/remove projects
-   - Update images, descriptions, and links
-
-5. **Experience**
-   - Update job history and responsibilities
-
-6. **Skills**
-   - Modify primary skills (with percentages)
-   - Update secondary skills list
-
-7. **Achievements & Certificates**
-   - Add certificate images and Drive links
-
-8. **Blogs**
-   - Update blog posts and Medium links
-
-### Replace Images
-
-Replace the generated placeholder images with your own:
-
-1. **Profile Photo**: `src/assets/profile-photo.jpg`
-2. **Robot Mascot**: `src/assets/robot-mascot.png`
-3. **Project Images**: Update in `PROJECTS` array in constants
-4. **Certificate Images**: Update in `ACHIEVEMENTS` array in constants
-
-### Styling Changes
+### Styling
 
 The design system is defined in:
 - `src/index.css` - Color variables and utility classes
 - `tailwind.config.ts` - Tailwind configuration
-
-To change the color scheme:
-1. Modify HSL values in `src/index.css` under `:root`
-2. Update gradient colors if needed
-3. The entire app will automatically use the new colors
-
-### External Links
-
-Update these important links in `src/constants/portfolio.ts`:
-
-```typescript
-export const EXTERNAL_LINKS = {
-  resume: "https://drive.google.com/file/d/YOUR_RESUME_ID/view",
-};
-
-export const SOCIAL_LINKS = {
-  leetcode: "https://leetcode.com/yourprofile",
-  // ... other links
-};
-
-export const ACHIEVEMENTS = [
-  {
-    certificateUrl: "https://drive.google.com/file/d/YOUR_CERT_ID/view",
-    // ...
-  },
-];
-```
 
 ## 📁 Project Structure
 
@@ -150,37 +79,6 @@ src/
 └── main.tsx           # App entry point
 ```
 
-## 🧪 Testing
-
-```bash
-# Run tests (when implemented)
-npm run test
-```
-
-## 📝 Code Quality
-
-The project uses:
-- **ESLint** - Code linting
-- **Prettier** - Code formatting (configure in your editor)
-- **TypeScript** - Type checking
-
-## 🚢 Deployment
-
-### Deploy to Lovable
-1. Visit your [Lovable Project](https://lovable.dev/projects/7119076f-7ec3-4fc1-bf33-84b62d7ac32f)
-2. Click "Share" → "Publish"
-
-### Deploy to Vercel
-```bash
-npm install -g vercel
-vercel
-```
-
-### Deploy to Netlify
-```bash
-npm run build
-# Then drag and drop the 'dist' folder to Netlify
-```
 
 ## 🔧 Environment Variables
 
@@ -194,16 +92,4 @@ This project is open source and available under the MIT License.
 
 **Naman Srivastava**
 - Email: naman.srivastava@example.com
-- GitHub: [@yourprofile](https://github.com/yourprofile)
-- LinkedIn: [Naman Srivastava](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- Built with [Lovable](https://lovable.dev)
-- UI components from [shadcn/ui](https://ui.shadcn.com)
-- Icons from [Lucide](https://lucide.dev)
-- Animations from [Framer Motion](https://www.framer.com/motion)
-
----
-
-**Need help?** Check the code comments or visit [Lovable Documentation](https://docs.lovable.dev)
+- LinkedIn: https://www.linkedin.com/in/naman-srivastava-27708b230/
