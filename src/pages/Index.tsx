@@ -30,7 +30,9 @@ const Index = () => {
   }, [showOverlay]);
 
   return (
-    <div className="relative min-h-screen" style={{ backgroundImage: `url(${homeBackground})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundAttachment: 'fixed' }}>
+    //<div className="relative min-h-screen" style={{ backgroundImage: `url(${homeBackground})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundAttachment: 'fixed' }}>
+      
+    <div className="relative min-h-screen bg-black" >
       <LandingOverlay isOpen={showOverlay} onClose={() => setShowOverlay(false)} />
       
       <div className={showOverlay ? "blur-sm pointer-events-none" : ""}>
