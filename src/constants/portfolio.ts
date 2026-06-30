@@ -18,7 +18,7 @@ export const SOCIAL_LINKS = {
 };
 
 export const EXTERNAL_LINKS = {
-  resume: "https://drive.google.com/file/d/1iFuQiBTcfs8592ZDjHvqVSZhEqyAV-R6/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/17MCgqP9UH8MsvAAW1gVPFtbN6y8xijmZ/view?usp=sharing",
 };
 
 export const PROJECTS = [
