@@ -101,8 +101,7 @@ export const EXPERIENCE = [
       "Developed multithreaded schedulers and background jobs to automatically retry and recover failed processes reducing manual intervention by 60% and preventing latency spikes in concurrent transaction processing",
       "Optimized database queries and indexing strategies, cutting average query execution time by 40% and reducing server load, which improved overall application throughput and lowered infrastructure cost.",
       "Designed and implemented a scalable microservices architecture using Spring Boot and REST APIs, reducing inter-service latency by 35–45% and improving system modularity across core telecom workflows including billing, inventory, plan activation, and service provisioning.",
-      "Built a dedicated inventory management microservice for SIM and subscriber data following SOLID and clean-architecture design principles, improving maintainability and enabling independent deployment of inventory operations.
-",
+      "Built a dedicated inventory management microservice for SIM and subscriber data following SOLID and clean-architecture design principles, improving maintainability and enabling independent deployment of inventory operations.",
     ],
   },
   {
